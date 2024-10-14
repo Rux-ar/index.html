@@ -6,11 +6,11 @@
    <title>My Personal Introduction</title>
 
    <style>
-      body {background-color:#f44336;}
+      body {background-color: #f44336;}
 
-      h1 {color:#e91e63;}
+      h1 {color: #e91e63;}
 
-      p {color:#73b36f;}
+      p {color: #73b36f;}
    </style>
 
 </head>
